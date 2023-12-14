@@ -1,0 +1,1 @@
+[{"cardNum":4222323,"nameOfGood":"Вода","id":1},{"cardNum":233132,"nameOfGood":"Сникерс","id":1}]
